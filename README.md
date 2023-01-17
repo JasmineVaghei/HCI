@@ -1,5 +1,5 @@
 # HCI Course Assignments and Projects done in GATech  
-Topics include (obtained from GATech OMSCS website):  
+Topics included (obtained from GATech OMSCS website):  
 
 ## Unit 1: Introduction  
 1.1 Introduction to Human-Computer Interaction  
